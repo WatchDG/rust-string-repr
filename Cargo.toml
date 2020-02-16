@@ -1,7 +1,7 @@
 [package]
 name = "string-repr"
 description = "A trait for converting a value to a `String`"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Grigoriy Baranov <baranov@w3m.co>"]
 repository = "https://github.com/WatchDG/rust-string-repr"
 license = "MIT"
