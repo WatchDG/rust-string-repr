@@ -1,9 +1,16 @@
 [package]
 name = "string-repr"
-version = "0.1.0"
+description = "A trait for converting a value to a `String`"
+version = "1.0.0"
 authors = ["Grigoriy Baranov <baranov@w3m.co>"]
+repository = "https://github.com/WatchDG/rust-string-repr"
+license = "MIT"
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+exclude = [
+    ".github",
+    ".gitignore",
+    "README.md"
+]
 
 [dependencies]
